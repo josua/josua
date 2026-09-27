@@ -50,7 +50,7 @@ A WebGL-focused 3D visualization and editing environment featuring AR/XR experim
 
 <div align="center">
 
-### Building, experimenting with, and sharing open 3D tools.
+### Building, experimenting with, and sharing open 3D tools. @josua
 
 </div>
 
