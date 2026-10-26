@@ -60,3 +60,13 @@ A WebGL-focused 3D visualization and editing environment featuring AR/XR experim
 
 </div>
 
+<div align="center">
+  
+## GitHub activity
+
+<img
+  src="./github-metrics.svg"
+  alt="GitHub activity, community, repositories and languages"
+  width="100%">
+  
+</div>
