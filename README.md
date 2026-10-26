@@ -1,7 +1,5 @@
-<div align="center">
+<div>
   
-## Contribution arcade
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -87,4 +85,20 @@ A WebGL-focused 3D visualization and editing environment featuring AR/XR experim
   alt="GitHub activity, community, repositories and languages"
   width="100%">
   
+</div>
+
+<div>
+  
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/josua/josua/output/galaga-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/josua/josua/output/galaga-contribution-graph.svg">
+  <img
+    alt="Galaga animation of my GitHub contributions"
+    src="https://raw.githubusercontent.com/josua/josua/output/galaga-contribution-graph.svg">
+</picture>
+
 </div>
