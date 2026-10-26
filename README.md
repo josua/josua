@@ -1,4 +1,22 @@
 <div align="center">
+  
+## Contribution arcade
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/josua/josua/output/pacman-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/josua/josua/output/pacman-contribution-graph.svg">
+  <img
+    alt="Pac-Man animation of my GitHub contributions"
+    src="https://raw.githubusercontent.com/josua/josua/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+<div align="center">
 
 # Hello 👋
 
