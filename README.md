@@ -54,3 +54,9 @@ A WebGL-focused 3D visualization and editing environment featuring AR/XR experim
 
 </div>
 
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=josua)](https://git.io/streak-stats)
+
+</div>
+
