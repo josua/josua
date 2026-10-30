@@ -8,6 +8,11 @@ on:
 permissions:
   contents: write
 
+# Shared with Galaga because both workflows publish to the same branch.
+concurrency:
+  group: profile-contribution-graphs-output
+  cancel-in-progress: false
+
 jobs:
   render:
     runs-on: ubuntu-latest
@@ -25,5 +30,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          # Clone output before copying dist, preserving the other game's SVGs.
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
